@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuanK120 a Student of System's engineering at Universidad del Valle in Colombia, currently in 10th semester
 - 👀 I’m interested in software developement and AI
-- 🌱 I’m currently learning JavaScript(Node js), React, Html and Css, I also know Python and Django
-- 💞️ I’m looking to collaborate on interesting projects that can help me grow as a developer, so I can better in my profession
+- 🌱 I’m currently learning microservices with Eureka, SpringCloud and Docker, I also know SpringBoot, Django and Angular
+- 💞️ I’m looking to collaborate on interesting projects that can help me grow as a developer
 - 📫 How to reach me? by mail, juancamilo.roserolopez@gmail.com
 
 <!---
